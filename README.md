@@ -1,9 +1,11 @@
 # Repositories
 
-A star :star: marks repositories where I am the main or sole author.
-
 This is an organized directory of repositories in my github account.
 At present, the directory is incomplete and is organized only at the highest level.
+
+A star :star: marks repositories where I am the main or sole author.
+
+I am a contributor to repositories with no star.
 
 ## Quantum Computing/Information
 
@@ -69,9 +71,6 @@ At present, the directory is incomplete and is organized only at the highest lev
 * **[Parameters.jl](https://github.com/jlapeyre/Parameters.jl)** - Types with default field values, keyword constructors and (un-)pack macros
 
 * **[JuliaQuantumInformation](https://github.com/jlapeyre/JuliaQuantumInformation)** - List of quantum information and computation projects in Julia
-
-<!-- * **[dot-emacs](https://github.com/jlapeyre/dot-emacs)** - -->
-<!-- * **[GJLMCMC.jl](https://github.com/jlapeyre/GJLMCMC.jl)** - -->
 
 ### Pedagogy
 
